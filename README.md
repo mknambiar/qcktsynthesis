@@ -20,6 +20,7 @@ Input function (Truth tables)
 
 Best solution path:
 =======Qubit State=======
+
 [[1], [0, 2], [1, 2]]
 
 [[0], [1], [0, 2]]
@@ -29,22 +30,31 @@ Best solution path:
 gate operation :  2  =  2  xor  []
 
 =======Qubit State=======
+
 [[0], [0, 2], [1, 2]]
+
 [[1], [0, 2]]
+
 [[2]]
 
 gate operation :  1  =  1  xor  [0, 2]
 
 =======Qubit State=======
+
 [[0], [1, 2]]
+
 [[1]]
+
 [[2]]
 
 gate operation :  0  =  0  xor  [1, 2]
 
 =======Qubit State=======
+
 [[0]]
+
 [[1]]
+
 [[2]]
 
 How to understand this output:
