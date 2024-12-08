@@ -21,7 +21,9 @@ Input function (Truth tables)
 Best solution path:
 =======Qubit State=======
 [[1], [0, 2], [1, 2]]
+
 [[0], [1], [0, 2]]
+
 [1, [2]]
 
 gate operation :  2  =  2  xor  []
