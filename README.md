@@ -22,6 +22,7 @@ Input function (Truth tables)
 [1, 1, 1, 1, 0, 0, 0, 0]
 
 Best solution path:
+
 =======Qubit State=======
 
 [[1], [0, 2], [1, 2]]
