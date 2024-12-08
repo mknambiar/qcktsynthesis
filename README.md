@@ -62,8 +62,11 @@ gate operation :  0  =  0  xor  [1, 2]
 [[2]]
 
 How to understand this output:
+
 Qubits are numbered starting from 0 upwards:
+
 In a Qubit state and the input function truth table there are as many rows as qubits
+
 First row is for qubit 0, 2nd row for qubit 1 and so on
 
 # Limitations
