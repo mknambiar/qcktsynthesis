@@ -65,9 +65,16 @@ How to understand this output:
 
 Qubits are numbered starting from 0 upwards:
 
-In a Qubit state and the input function truth table there are as many rows as qubits
+In a Qubit state and the input function truth table there are as many rows as qubits.
 
-First row is for qubit 0, 2nd row for qubit 1 and so on
+First row is for qubit 0, 2nd row for qubit 1 and so on. 
+
+# Additional Info
+In each row of a Qubit state we have a list of factors.
+
+For example qubit state [[0], [1, 2]] in the first row means that qubit 0 represents the expression  [0] xor [1, 2] in that state. [1, 2] means a boolean product of qubits 1 and 2
+
+[] in the gate operation above means bit 1
 
 # Limitations
 Only 1 test case has been tested. It should work. Try changing the inputs and see
