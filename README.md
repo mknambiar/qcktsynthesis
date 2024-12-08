@@ -14,8 +14,11 @@ Quantum Circuit Synthesis  of binary functions using Reed Muller encoding
 2024-12-09 00:17:38,485 - root - CRITICAL - <module> - Testing: This is a critical message
 
 Input function (Truth tables)
+
 [0, 0, 1, 1, 0, 1, 0, 1]
+
 [0, 1, 1, 0, 0, 0, 1, 1]
+
 [1, 1, 1, 1, 0, 0, 0, 0]
 
 Best solution path:
